@@ -1,2 +1,2 @@
 gen1
-555 push
+666 push
